@@ -2,17 +2,11 @@
 
 ### Ransomware Early-Warning & File Integrity Monitoring System
 
-\<p align="center">
-&#x20; \<img src="assets/fimwatch-banner.png" alt="FIMWATCH - Ransomware Early-Warning & File Integrity Monitoring System">
-\</p>
+<p align="center">   <img src="assets/fimwatch-banner.png" alt="FIMWATCH - Ransomware Early-Warning & File Integrity Monitoring System"> </p>
 
-\<p align="center">
-&#x20; \<strong>Detect • Analyze • Alert • Respond\</strong>
-\</p>
+<p align="center">   <strong>Detect • Analyze • Alert • Respond</strong> </p>
 
-\<p align="center">
-&#x20; A safe endpoint-monitoring prototype designed to identify ransomware-like file activity and detect file-integrity violations in an isolated test environment.
-\</p>
+<p align="center">   A safe endpoint-monitoring prototype designed to identify ransomware-like file activity and detect file-integrity violations in an isolated test environment. </p>
 
 ---
 
